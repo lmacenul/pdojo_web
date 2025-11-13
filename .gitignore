@@ -1,6 +1,10 @@
 tables/*
 #json/*
 
+#LMac
+deploy.py
+serve.sh
+
 $*.pickle
 
 # python object files.
